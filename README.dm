@@ -1,5 +1,6 @@
-# React Redux with Jasmine and Karma
+#React Redux with Jasmine and Karma
 
+```bash
 npm install
-
-npm run start 
+npm run start
+```
