@@ -1,0 +1,40 @@
+{
+  "name": "test-react",
+  "version": "1.0.0",
+  "description": "Test react with Jasmine and Karma",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milo76/react-test.git"
+  },
+  "keywords": [
+    "browserify",
+    "jasmine",
+    "karma",
+    "react",
+    "redux",
+    "watchify"
+  ],
+  "author": "Christian Milocanovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milo76/react-test/issues"
+  },
+  "homepage": "https://github.com/milo76/react-test#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "browserify": "^13.0.0",
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.21",
+    "karma-cli": "^0.1.2",
+    "karma-jasmine": "^0.3.7",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "redux": "^3.3.1",
+    "watchify": "^3.7.0"
+  }
+}
